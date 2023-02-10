@@ -2,5 +2,5 @@
 Repository ini berisikan source code dan dokumentasi untuk tugas **Pengenalan C++ SEKURO**
 
 **Langkah-langkah menjalankan program:**
-- Buka file "main.cpp" dalam folder src
+- Buka file "main.cpp" dalam folder src.
 - Run file tersebut.
